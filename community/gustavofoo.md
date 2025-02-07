@@ -10,7 +10,8 @@
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gustavofoo)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gustavofoo@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gustavo-da-silva-vieira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-da-silva-vieira/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavofoo)
 
 
 ## Habilidades
@@ -32,4 +33,8 @@
 💻 Linguagens de programação: Pascal (Delphi), Java.
 🌐 Front-end: ReactJS, HTML, CSS.
 🗃️ Banco de dados: PostgreSQL, SQL Server, MySQL.
-- 🧰 Ferramentas de Desenvolvimento: Delphi, Visual Studio Code, intellij, Git/SVN, Docker, RESTful APIs.
+🧰 Ferramentas: Delphi, Visual Studio Code, intellij, Git/SVN, Docker, RESTful APIs.
+
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
